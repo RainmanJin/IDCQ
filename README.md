@@ -1,4 +1,3 @@
-# IDCQ
 # the Interface for Database Query in Chinese (IDCQ)
 # 自然语言查询接口（for Database）：
 # 基本功能：实现用户输入（正确的）查询语句后，由程序构造出SQL语句。
