@@ -1,0 +1,13 @@
+算法思路详解（同V1）：the thinking of the algorithm.docx
+
+数据库文件（同V1）：jcx.sql
+
+字典目录：企业进销存/src/dictionary/
+
+需要导入的jar包：企业进销存/jarFile/
+
+算法实现：企业进销存/src/search/
+
+可查询的语句（同V1）：demo.txt
+
+程序入口：企业进销存/src/main/login.java
