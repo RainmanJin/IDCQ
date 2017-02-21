@@ -1,0 +1,95 @@
+﻿
+的 tttt
+是 =
+为 =
+等于 =
+小于 <
+少于 <
+大于 >
+高于 >
+不少于 >=
+不高于 <=
+信息 *
+记录 *
+查 select
+查询 select
+查找 select
+找 select
+找一找 select
+和 and
+
+商品 商品
+商品号 spid
+商品名 spname
+产地  cd
+单位 dw
+规格 gg
+包装 bz
+批号 ph
+批准文号 pzwh
+
+供应商 供应商
+供应商号 gysid
+供应商名 gysname
+地址 dz
+邮编 yzbm
+邮政编码 yzbm
+传真 cz
+联系人 lxr
+电话 lxdh
+联系电话 lxdh
+联系人电话 lxdh
+邮箱 yx
+
+库存 库存
+库存号 kcid
+单价 dj
+库存数量 kcsl
+
+客户 客户
+客户号 khid
+客户名 khname
+居住地 dz
+居住地址 dz
+
+返厂 返厂
+返厂号 rkthid
+品种号 pzno
+单价 dj
+价格 dj
+数量 sl
+金额 je
+返厂日期 rkthrq
+经手人 jsr
+经受方式 jsfs
+
+进货 进货
+入库 进货
+进货号 rukuid
+进货id rukuid
+进货ID rukuid
+进货日期 rukurq
+
+销售 销售
+售货 销售
+销售号 sellid
+销售日期 sellrq
+
+退货 退货
+退货号 xsthid
+退货日期 xsthrq
+
+阿里巴巴 '阿里巴巴'
+'阿里巴巴' 供应商名
+黄金 '黄金'
+'黄金' 商品名
+Apple有限公司 'Apple有限公司'
+'Apple有限公司' 客户名
+华为手机公司 '华为手机公司'
+'华为手机公司' 客户名
+华为 '华为'
+'华为' 客户名
+成都 '成都'
+'成都' 地址
+南京 '南京'
+'南京' 地址
