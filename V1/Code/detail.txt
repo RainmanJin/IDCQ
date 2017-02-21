@@ -1,5 +1,13 @@
 算法思路详解：the thinking of the algorithm.docx
+
 数据库文件：jcx.sql
-字典目录：src/dictionary/
-需要导入的jar包：jarFile/
-算法实现：src/search/
+
+字典目录：IDCQ/src/dictionary/
+
+需要导入的jar包：IDCQ/jarFile/
+
+算法实现：IDCQ/src/search/
+
+可查询的语句：demo.txt
+
+程序入口：IDCQ/src/search/search.java
