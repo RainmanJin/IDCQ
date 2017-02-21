@@ -1,0 +1,20 @@
+1.查询所有客户的信息
+	select * from tb_khinfo	
+2.查询所有供应商的信息
+	select * from tb_gysinfo
+3.查询去年进货的商品信息
+	select * from tb_ruku natural join tb_spinfo where tb_ruku.spid = tb_spinfo.id and tb_ruku.rukurq like '%2016%'
+4.查询去年8月退货的商品信息
+	select * from tb_xsth natural join tb_spinfo where tb_xsth.spid = tb_spinfo.id and tb_xsth.xsthrq like '%2016-08%'
+5.查询阿里巴巴的电话
+	select tb_gysinfo.name,lxdh from tb_gysinfo where tb_gysinfo.name like '%阿里巴巴%'
+6.查询黄金的库存数量
+	select tb_spinfo.spname,kcsl from tb_kc natural join tb_spinfo where tb_kc.id = tb_spinfo.id and tb_spinfo.spname='黄金'
+7.查询南京客户的信息	查询居住地址为南京的所有客户信息
+	select * from tb_khinfo where dz='南京'
+8.查询价格小于100的商品信息
+	select * from tb_kc natural join tb_spinfo where tb_kc.id = tb_spinfo.id and dj<100
+
+
+
+其他查询语句这里不一一例举。。。
